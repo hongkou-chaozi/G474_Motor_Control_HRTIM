@@ -1,0 +1,14 @@
+g474\pmsm_if.o: ..\Matlab\PMSM_IF.c
+g474\pmsm_if.o: ..\Matlab\PMSM_IF.h
+g474\pmsm_if.o: ..\Matlab\rtwtypes.h
+g474\pmsm_if.o: G:\keil\ARM\ARMCC\Bin\..\include\math.h
+g474\pmsm_if.o: ..\Matlab\zero_crossing_types.h
+g474\pmsm_if.o: ..\Matlab\mw_cmsis.h
+g474\pmsm_if.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+g474\pmsm_if.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+g474\pmsm_if.o: G:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+g474\pmsm_if.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+g474\pmsm_if.o: G:\keil\ARM\ARMCC\Bin\..\include\string.h
+g474\pmsm_if.o: G:\keil\ARM\ARMCC\Bin\..\include\float.h
+g474\pmsm_if.o: G:\keil\ARM\ARMCC\Bin\..\include\limits.h
+g474\pmsm_if.o: ..\Matlab\solver_zc.h

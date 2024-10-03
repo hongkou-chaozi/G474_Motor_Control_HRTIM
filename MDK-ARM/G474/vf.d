@@ -1,0 +1,12 @@
+g474\vf.o: ..\Matlab\VF.c
+g474\vf.o: ..\Matlab\VF.h
+g474\vf.o: G:\keil\ARM\ARMCC\Bin\..\include\math.h
+g474\vf.o: ..\Matlab\rtwtypes.h
+g474\vf.o: ..\Matlab\mw_cmsis.h
+g474\vf.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+g474\vf.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+g474\vf.o: G:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+g474\vf.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+g474\vf.o: G:\keil\ARM\ARMCC\Bin\..\include\string.h
+g474\vf.o: G:\keil\ARM\ARMCC\Bin\..\include\float.h
+g474\vf.o: G:\keil\ARM\ARMCC\Bin\..\include\limits.h
